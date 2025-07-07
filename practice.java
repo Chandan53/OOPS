@@ -1,6 +1,6 @@
 package OOPS;
 
-public class chat {
+public class practice {
     public static void main(String args[]){
         Puppy p1=new Puppy("brown","Laborder");
         p1.display();
