@@ -13,6 +13,7 @@ public class oops25 {
     
 }
 class Animal{
+    
     Animal(){
         System.out.println("Animal constructor is called");
     }
