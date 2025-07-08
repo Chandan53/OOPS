@@ -10,6 +10,7 @@ public class oops17 {
     }
     
 }
+// Method_Overriding--> parent and child classes both contain the same function with different defination
 class Animal{
     void eat(){
         System.out.println("eat any_things");
