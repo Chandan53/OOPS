@@ -1,6 +1,7 @@
 package OOPS;
 
 public class oops16 {
+    // multiple function with the same name with different parameters is called method overloading
     public static void main(String args[]){
         Function_overloading f1=new Function_overloading();
         System.out.println(f1.sum(2,3));
